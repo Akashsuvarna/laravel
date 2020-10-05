@@ -1,0 +1,7 @@
+when i use /ab it will go the up.blade.php file in that i created one registeration form when we hit launch button it will open
+after that registerd data will come in tables
+in tables i crated edit and delete button
+when i hit edit button modal should pop up like registeration from along with data but that is not working one problem
+same way delete button also
+i didn't coded edit and delete because model is not working i used java script to pop up the model whenever we hit edit and delete button
+one more problem i used datatables cdn link that also not working in tables please check that one
